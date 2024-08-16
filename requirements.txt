@@ -23,3 +23,5 @@ duckduckgo-search
 validators
 unstructured
 nltk
+youtube-transcript-api
+pytube
